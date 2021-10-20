@@ -1,4 +1,4 @@
-# ANANKE_WEB
+# THOT_WEB
 
 ## Build Setup
 
